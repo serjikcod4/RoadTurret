@@ -2,7 +2,7 @@
 
 Core mechanic for the **Factura Unity Developer** test task. A car drives forward along the road and the player controls the turret mounted on it. Stickmen idle at random spots, run at the car when it gets close and smash into it. The goal is to reach the finish line without losing all of the car's HP, while killing as many enemies as possible.
 
-▶ **Gameplay video (57 s, win + lose):** [watch / download](https://github.com/serjikcod4/RoadTurret/raw/main/Media/RoadTurret_Gameplay.mp4) (`Media/RoadTurret_Gameplay.mp4`)
+▶ **Gameplay video (57 s, win + lose):** [download](https://github.com/serjikcod4/RoadTurret/raw/main/Media/RoadTurret_Gameplay.mp4) (`Media/RoadTurret_Gameplay.mp4`)
 
 ## How to run
 
