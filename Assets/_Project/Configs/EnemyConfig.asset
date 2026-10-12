@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fae7693c2262ce64686f7cffb8a73e25, type: 3}
+  m_Name: EnemyConfig
+  m_EditorClassIdentifier: RoadTurret.Runtime::RoadTurret.Configs.EnemyConfig
+  <MaxHealth>k__BackingField: 15
+  <RunSpeed>k__BackingField: 5.5
+  <TurnSpeed>k__BackingField: 720
+  <AggroRadius>k__BackingField: 20
+  <AttackRange>k__BackingField: 0.45
+  <ImpactDamage>k__BackingField: 6
+  <ImpactKnockback>k__BackingField: 9
+  <DespawnDistanceBehind>k__BackingField: 25
+  <KnockbackSpeed>k__BackingField: 5
+  <KnockbackDamping>k__BackingField: 5
+  <CorpseDuration>k__BackingField: 1.6
+  <CorpseSinkDuration>k__BackingField: 0.6
